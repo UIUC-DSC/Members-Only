@@ -1,0 +1,10 @@
+booking_date,jacket_number,age_at_arrest,age_at_release,hours,marital_status,employment_status,city,race,sex,STATE,citizenship,occupation,school,prisoner_type,marital_status_no,employment_status_no,city_no,race_no,sex_no,STATE_no,citizenship_no,occupation_no,school_no,prisoner_type_no,r,r_count,offense_level,days_since,previous_i,age_first,year
+12/16/2022,9999999,23,23,24,Single,Unemployed,CHAMPAIGN,Black,Male,ILLINOIS,UNITED STATES,UNEMPLOYED,College,Felony Arraignment,0,0,0,0,0,0,0,3,1,0,FALSE,0,Felony,,0,23,2022
+2/4/2023,9999999,23,23,20,Single,Unemployed,CHAMPAIGN,Black,Male,ILLINOIS,UNITED STATES,UNEMPLOYED,College,Felony Arraignment,0,0,0,0,0,0,0,3,1,0,TRUE,1,Felony,50,0,23,2023
+2/12/2023,9999999,23,23,21,Single,Unemployed,CHAMPAIGN,Black,Male,ILLINOIS,UNITED STATES,UNEMPLOYED,College,Felony Arraignment,0,0,0,0,0,0,0,3,1,0,TRUE,2,Felony,7,0,23,2023
+2/17/2023,9999999,23,23,21,Single,Unemployed,CHAMPAIGN,Black,Male,ILLINOIS,UNITED STATES,UNEMPLOYED,College,Felony Arraignment,0,0,0,0,0,0,0,3,1,0,TRUE,3,Felony,5,0,23,2023
+3/23/2023,9999999,23,23,"1,752",Single,Unemployed,CHAMPAIGN,Black,Male,ILLINOIS,UNITED STATES,UNEMPLOYED,College,Felony Arraignment,0,0,0,0,0,0,0,3,1,0,TRUE,4,Felony,34,0,23,2023
+9/28/2023,9999999,23,23,"1,752",Single,Unemployed,CHAMPAIGN,Black,Male,ILLINOIS,UNITED STATES,UNEMPLOYED,College,Felony Arraignment,0,0,0,0,0,0,0,3,1,0,TRUE,5,Felony,189,0,23,2023
+10/6/2023,9999999,23,23,22,Single,Unemployed,URBANA,Black,Male,ILLINOIS,UNITED STATES,UNEMPLOYED,College,Felony Arraignment,0,0,0,0,0,0,0,3,1,0,TRUE,6,Felony,8,0,23,2023
+10/20/2023,9999999,23,23,18,Single,Unemployed,CHAMPAIGN,Black,Male,ILLINOIS,UNITED STATES,UNEMPLOYED,College,Felony Arraignment,0,0,0,0,0,0,0,3,1,0,TRUE,7,Felony,14,0,23,2023
+12/2/2023,9999999,23,23,15,Single,Unemployed,CHAMPAIGN,Black,Male,ILLINOIS,UNITED STATES,UNEMPLOYED,College,Felony Sentenced IDOC,0,0,0,0,0,0,0,3,1,0,TRUE,8,Felony,43,0,23,2023

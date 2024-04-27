@@ -18,3 +18,5 @@ Gradient Boosting uses an iterative approach to improve the model with machine l
 
 Plan to integrate a UI to search by inmate jacket number or other features to see whether or not they would be incarcerated again in the future.
 
+## Presentation Link
+https://www.canva.com/design/DAGB4Bh7mZY/Nao4K2t6FunF2J5LWw22jg/edit?utm_content=DAGB4Bh7mZY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

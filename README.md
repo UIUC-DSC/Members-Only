@@ -14,5 +14,7 @@ With our dataset being primarily discrete data and we want to predict whether or
 
 Gradient Boosting uses an iterative approach to improve the model with machine learning by targeting errors. This was an effective and accurate way to deal with our complex dataset (many different categorical and numerical data).
 
+## Future Plans
+
 Plan to integrate a UI to search by inmate jacket number or other features to see whether or not they would be incarcerated again in the future.
 
